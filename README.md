@@ -15,4 +15,8 @@ cd <repository_directory>
 2. To install required dependincies :
 ```bash
 pip install ultralytics==8.0.196
-pip install roboflow```
+pip install roboflow
+```
+Link to the dataset: [PepsiVsCocola](https://universe.roboflow.com/boycott-brands/cola-vs-pepsi/dataset/1)
+
+
