@@ -10,7 +10,7 @@ To set up the codebase and install the necessary dependencies, follow these step
 
 ```bash
 git clone https://github.com/buttaRahul/pepsi-cocacola-video-tracking
-cd <repository_directory>
+
 ```
 2. To install required dependincies :
 ```bash
