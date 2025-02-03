@@ -9,7 +9,7 @@ To set up the codebase and install the necessary dependencies, follow these step
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/buttaRahul/pepsi-cocacola-video-tracking
 cd <repository_directory>
 ```
 2. To install required dependincies :
