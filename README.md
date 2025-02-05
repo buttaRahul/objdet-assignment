@@ -1,4 +1,4 @@
-# Pepsi vs Coca-Cola Object Detection
+# Pepsi vs Coca-Cola Video Tracking
 
 This project aims to identify and timestamp the appearances of "Pepsi" and "Coca-Cola" objects in a video. Additionally, it provides the size and distance of these objects from the center of the frame.
 
